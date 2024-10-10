@@ -2,6 +2,11 @@
 
 ✎ Sqflite database
 
+
+👀 ScreenShot
+
+
+
 ✨ NOTES SCREENS
 
 ✅ Notes Table CRUD Operation.
